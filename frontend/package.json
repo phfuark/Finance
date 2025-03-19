@@ -10,6 +10,10 @@
     "preview": "vite preview"
   },
   "dependencies": {
+<<<<<<< HEAD
+=======
+    "frontend": "file:",
+>>>>>>> 5d76c17 (19.03.2025 - User)
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
